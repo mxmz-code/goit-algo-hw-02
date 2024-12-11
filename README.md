@@ -32,7 +32,7 @@ goit-algo-hw-02/
 1. **Склонуйте репозиторій**:
 
     ```bash
-    git clone https://github.com/yourusername/goit-algo-hw-02.git
+    git clone [https://github.com/yourusername/goit-algo-hw-02.git](https://github.com/mxmz-code/goit-algo-hw-02.git)
     cd goit-algo-hw-02
     ```
 
